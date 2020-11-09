@@ -1,4 +1,4 @@
-# ESP-AWS-IoT
+# ESP-AWS-IoT Fleet Branch
 
 This framework enables AWS IoT cloud connectivity with ESP32 based platforms using [AWS IoT Device Embedded SDK](https://github.com/aws/aws-iot-device-sdk-embedded-C).
 
