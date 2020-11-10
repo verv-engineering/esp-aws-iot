@@ -1,3 +1,5 @@
 [submodule "aws-iot-device-sdk-embedded-C"]
 	path = aws-iot-device-sdk-embedded-C
 	url = https://github.com/verv-engineering/aws-iot-device-sdk-embedded-C.git
+[submodule "esp-aws-iot"]
+	branch = origin/fleet
