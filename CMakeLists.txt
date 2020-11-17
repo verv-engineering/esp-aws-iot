@@ -1,4 +1,4 @@
-set(COMPONENT_ADD_INCLUDEDIRS "port/include aws-iot-device-sdk-embedded-C/include")
+set(COMPONENT_ADD_INCLUDEDIRS "port/include aws-iot-device-sdk-embedded-C/include aws-iot-device-sdk-embedded-C/standard/common/include/private")
 set(aws_sdk_dir aws-iot-device-sdk-embedded-C/src)
 set(COMPONENT_SRCS "${aws_sdk_dir}/aws_iot_jobs_interface.c"
                    "${aws_sdk_dir}/aws_iot_jobs_json.c"
